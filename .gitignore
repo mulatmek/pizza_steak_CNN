@@ -1,0 +1,5 @@
+pizza_steak/test/
+pizza_steak/train/
+.idea/
+pizza_steak.zip
+main.py
